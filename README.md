@@ -16,10 +16,10 @@ plugins=(... git-arc)
 | `garcl`  | `git arc create -l` |
 | `garl`   | `git arc list`      |
 | `gars`   | `git arc stage`     |
-| `garu`   | `git arc update`    |
 
 ## Functions
 
 | Function | Command                                  |
 | :------- | :--------------------------------------- |
 | `garlm`  | `git arc list main.."$(current_branch)"` |
+| `garu`   | `git arc update "$(current_branch)"`     |
