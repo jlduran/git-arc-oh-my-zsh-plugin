@@ -1,6 +1,6 @@
 # git arc plugin
 
-The git arc plugin provides [aliases](#aliases) and [functions](#functions) for [git-arc](https://github.com/freebsd/freebsd-src/tree/main/tools/tools/git).
+The git arc plugin provides [aliases](#aliases) and [functions](#functions) for [git-arc](https://github.com/freebsd/freebsd-src/tree/main/tools/tools/git), a FreeBSD development tool.
 
 To use it, add `git-arc` to the plugins array in your zshrc file:
 
